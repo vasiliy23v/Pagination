@@ -1,12 +1,20 @@
 {
+<<<<<<< HEAD
+  "name": "my-app",
+=======
   "name": "counter",
+>>>>>>> b99f059329de0b769eb098924a76f8dbfa186e3f
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
+<<<<<<< HEAD
+    "bootstrap": "^5.1.1",
+=======
     "bootstrap": "^5.1.0",
+>>>>>>> b99f059329de0b769eb098924a76f8dbfa186e3f
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "^4.0.3",
